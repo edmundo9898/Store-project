@@ -53,6 +53,11 @@ header{
     font-size: 18px;
 }
 
+.menu-01 i{
+    margin-right: 5px;
+
+}
+
 
 
 .menu-01 li a:hover{
@@ -73,10 +78,11 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-right: -15px;
-    margin-left: -15px;
+    margin-left: 5px;
 
 }
+
+
 
 .search-btn{
     margin-right: 15px;
@@ -135,43 +141,186 @@ header{
     color: black;
 }
 
-/* ???? */
+/* produtos */
 
-.carrousel{
-    background: brown;
-    margin: 10px 50px 40px 50px;
-    height:300px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
-/* ????? */
-
-.lancamentos{
-    background-color:goldenrod;
-    margin: 10px 50px 10px 50px;
-    height: 200px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.section01{
+    width: 100%;
     
 }
 
-/* Footer-Social */
+.section01 h2{
+    padding-top: 20px;
+    text-align:center;
+    color: black;
+    margin: 30px 0   5px 0;
+}
+
+.container-item{
+
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+
+.cardPro{
+    background-color: rgb(245, 247, 242);
+    box-shadow: 0 0 5px rgb(10, 30, 10);
+    width: 260px;
+    height: 400px;
+    margin: 20px;
+    text-align: center;
+
+}
+
+.cardPro a{
+    display: block;
+    background-color:red;
+    position: relative;
+    top: 100%;
+}
+
+
+
+
+/* Lançamentos */
+
+.section02{
+    width: 100%;
+  
+}
+
+.section02 h2{
+    text-align:center;
+    color: black;
+    margin: 30px 0 5px 0;
+}
+
+.container-item02{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.cardPro02{
+    background-color: rgb(165, 165, 165);
+    width: 260px;
+    height: 400px;
+    margin: 20px;
+    text-align: center;
+}
+
+.cardPro02 a{
+    display: block;
+    background-color:red;
+    position: relative;
+    top: 100%;
+}
+
+
+
+
+
+/* Footer */
 
 .footer-info{
     background-color: #1a1a1a;
     width: 100%;
-    height: 60px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    height: 25vh;
+    margin-top: 40px;    
 
 }
-.footer-info h2{
-    color: white;
-    text-align: center;
+
+.container-footer{
+    width: 100%;
+    margin:auto;
+    display: flex;
+    align-items:center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
+
+.title-op{
+    color: white;
+    font-size: 50px;
+}
+
+.title-op:hover{
+    color: orangered;
+}
+
+.container-footer .title{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.container-footer .info-ul{
+    list-style: none;
+    margin:20px;
+    display: flex ;
+    flex-direction: column;
+}
+.info-ul li{
+    color: white;
+    font-size: 13px;
+    margin: 0 0 10px 0;
+    
+}
+.info-ul li a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.info-ul i{
+    padding-right: 10px;
+    font-size: 1.5rem;
+}
+
+
+/* Social */
+
+
+.social-container{
+    width: 100%;
+    background-color: #1a1a1a;
+    height: 10vh;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+  
+}
+
+.social-container a{
+    padding: 10px;
+    text-decoration: none;
+    margin: 0 10px 0 10px;
+
+}
+
+.social-container i{
+    color: white;
+    font-size: 1.5em;
+}
+
+.social-container i:hover{
+    color: orangered;
+}
+
+
+
+
+
+
+
 
 

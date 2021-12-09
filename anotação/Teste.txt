@@ -1,0 +1,36 @@
+Desafio: Criar uma loja do tipo que você quiser (Exemplo: Petshop, Venda de itens de personagens, Itens ficticios)
+
+
+SUGESTÃO DE APIs abaixo (Obs: algumas são mais simples, outras mais completas, foquem em consumir o conteudo que você deseja): 
+https://docs.thecatapi.com/ - API de gatos
+https://thedogapi.com/ - API de cachorros
+https://deckofcardsapi.com/ - API de cartas de baralho
+https://pokeapi.co/ - API de pokemon
+https://rickandmortyapi.com/ - API Rick and Morty
+https://developer.marvel.com/?ref=devresourc.es - API da Marvel
+https://www.scorebat.com/video-api/?ref=devresourc.es - API de futebol (eu acho)
+https://docs.awesomeapi.com.br/api-de-moedas/ - API de cotação de Moedas
+
+
+
+
+Requesitos :
+
+Estrutura básica da loja (configurações do HTML)
+
+Header: 
+Nome da Loja
+Botão de Home
+Botão Perfil
+
+Body: 
+Barra de Search (onde você achar que deve ter)
+Catalogo de produtos
+botão de compra
+carrinho
+finalizar compra
+
+
+Obs: Tudo deve ser realizado pelo front.
+
+Prazo: 2 semanas

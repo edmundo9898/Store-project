@@ -1,0 +1,1 @@
+let lorem = document.querySelector('# ou ./ (nome da classe ou id)')
