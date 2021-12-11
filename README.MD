@@ -11,7 +11,8 @@
 
 ## Layout Web
 
-![screencapture-file-C-workspace-ProjetoLoja-html-index-html-2021-12-09-16_52_16](https://user-images.githubusercontent.com/89991197/145468439-446658ea-cc98-45a1-b0dc-bd6fa1885a33.png)
+![screencapture-file-C-workspace-ProjetoLoja-html-index-html-2021-12-10-19_56_29](https://user-images.githubusercontent.com/89991197/145656005-6b983ac9-1d61-49ac-ac7e-fdc363f5cfec.png)
+
 
 ## Layout Mobile
 > Status: Developing ⚠️
